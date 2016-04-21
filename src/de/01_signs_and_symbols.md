@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Zeichen und Symbole
+title: Zeichen und Symbole ADSDSADAS
 language: de
 ---
 ### Exzellenzcluster »_Bild Wissen Gestaltung_. Ein interdisziplinäres Labor«, Humboldt-Universität zu Berlin
