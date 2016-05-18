@@ -13,14 +13,13 @@ language: en
 Ernst-Moritz-Arndt-Universität Greifswald
 
 *Konferenzsaal*
-im Hauptgebäude der Universität Greifswald
+at Mainbuilding University Greifswald
 
 Domstraße 11 / Entrance 2
 
 17489 Greifswald
 
 <a href="../files/Conf_GettingHere_Web.pdf" class="download">↓ How to get there</a><br>
-<a href = "../files/Conf_GettingAround_Web.pdf" class="download">↓ How to get around</a>
 
 Greifswald is easy to reach by train. Greifswald main station is at short distance both to the historic city centre and the University.
 
