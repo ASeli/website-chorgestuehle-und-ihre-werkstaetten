@@ -6,26 +6,29 @@ language: en
 
 # Partners
 
-## A Conference organized by the Cluster of Excellence »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory« and funded by German Research Foundation (DFG)
+## A Conference organized by the Ernst-Moritz-Arndt-University, Caspar-David-Friedrich-Institut and Misericordia International in collaboration with Cluster of Excellence »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory« and funded by German Research Foundation (DFG)
 
-[![Logo Exzellenzcluster Bild Wissen Gestaltung](../images/bwg.jpg){: width="500px"}](https://www.interdisciplinary-laboratory.hu-berlin.de)
+
 
 ## Partners
 
-[![Logo Hochschule Fresenius AMD](../images/amd.png){: width="248px" margin-right="10px"}](http://www.amdnet.de)
+[![Logo Ernst-Moritz-Arndt-University AMD](../images/amd.png){: width="248px" margin-right="10px"}](http://www.cdfi.de/)
 
-[![Logo Netzwerk Mode Textil](../images/nmt.png){: width="248px"}](http://www.netzwerk-mode-textil.de)
+[![Logo Netzwerk Misericordia International](../images/nmt.png){: width="248px"}](http://misericordia-international.blogspot.co.uk/)
+
+[![Logo Exzellenzcluster Bild Wissen Gestaltung](../images/bwg.jpg){: width="500px"}](https://www.interdisciplinary-laboratory.hu-berlin.de)
+
 
 ## Concept and Organization
 
-Sabine de Günther M.A., Research Associate, »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«  
-Prof. Dr. Philipp Zitzlsperger, Hochschule Fresenius, Special field Design (AMD) - Associate Member, »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«  
-Davide Ferri B.A., Assitant, »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«  
+Anja Seliger M.A., Research Associate, »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«  
+Prof. Dr. Gerhard Weilandt, Ernst-Moritz-Arndt-University, Caspar-David-Friedrich-Institut  
 
 ## Layout & Design
 
 Johannes Herseni, Interface Designer, »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«   
 [http://johannesherseni.com](http://johannesherseni.com/)
+Babette Wiezorek, Product Designer,  »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory« (https://www.interdisciplinary-laboratory.hu-berlin.de/de/personen/babette-wiezorek)
 
 ## Contact
 
@@ -37,4 +40,4 @@ Unter den Linden 6
 E-Mail: [bwg.zeichen-und-symbole@hu-berlin.de](mailto:bwg.zeichen-und-symbole@hu-berlin.de)  
 Web: [www.interdisciplinary-laboratory.hu-berlin.de](http://www.interdisciplinary-laboratory.hu-berlin.de)
 
-Picture credits: SMB, Kunstbibliothek, Sammlung-Modebild 
+Picture credits: SMB, Kunstbibliothek, Sammlung-Modebild

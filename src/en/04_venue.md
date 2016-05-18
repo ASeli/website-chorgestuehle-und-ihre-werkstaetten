@@ -8,18 +8,25 @@ language: en
 
 <iframe width="100%" height="500px" frameBorder="0" src="https://a.tiles.mapbox.com/v4/frau-sabine.o0557fei.html?access_token=pk.eyJ1IjoiZnJhdS1zYWJpbmUiLCJhIjoiY2lnNm9saHZ4MGhkb3ZsbTZ5eXkwMXRhMSJ9.YNRk22lOO3ngLgUvJQovCg"></iframe>
 
-## Keynote and Opening Reception (Thursday, Feb. 18th, 2016)   
-Heilig-Geist-Kapelle     
-Spandauer Str. 1   
-10178 Berlin
-(Unfortunately accessibility to Heilig-Geist-Kapelle is not provided)
 
-## Conference (Friday, Feb. 19th to Sunday, Feb. 21st, 2016)   
-Humboldt Graduate School, *Festsaal*   
-Luisenstr. 56   
-10115 Berlin
+## Conference (Thursday and Friday, 23.-24. June 2016)   
+Ernst-Moritz-Arndt-Universität Greifswald
+
+*Konferenzsaal*
+im Hauptgebäude der Universität Greifswald
+
+Domstraße 11 / Entrance 2
+
+17489 Greifswald
 
 <a href="../files/Conf_GettingHere_Web.pdf" class="download">↓ How to get there</a><br>
 <a href = "../files/Conf_GettingAround_Web.pdf" class="download">↓ How to get around</a>
+
+Greifswald is easy to reach by train. Greifswald main station is at short distance both to the historic city centre and the University.
+
+From Berlin to Greifswald you can catch the train at Berlin Main station or Berlin Gesundbrunnen. Trains go each hour and the journey lasts about 2,5 hours. The price for a single way ticket without any reduction is approximately 30 € (RE), 39 € (IC/EC).
+You can reach Greifswald also from the direction of Hamburg via Stralsund, Lübeck or Rostock. Travelling time is about 3,5 to 5 hours, depending on the chosen train. Tickets cost about 42 and 54 € (single way, no reduction).
+You can by tickets online - www.bahn.de
+
 
 ![Separator](../images/separator.png)

@@ -6,75 +6,125 @@ language: de
 
 # Programm
 
-## Bestätigte Sprecher
-Dr. Astrid Ackermann // Dr. Stefanie Freyer // Giulia Galastro M.A. // Wilm Grunwaldt M.A. // Prof. Dr. Karen Hearn // Leoni Heeger M.A. // Janine Jakob M.A. // Dr. Herbert Kopp-Oberstebrink // Dr. William Kynan-Wilson // Dr. Mateusz Kapustka // Dr. Tatjana Petzer // Dr. Johannes Pietsch // Prof. Dr. Marcia Pointon // Anne K. Reimers M.A. // Prof. Dr. Aileen Ribeiro // Dr. Clare Rose // Barbara Schmelzer-Ziringer M.A. // Prof. Dr. Änne Söll // Dr. Martin Treml // Dr. Sara van Dijk //Dr. Juliane von Fircks // Dr. Thomas Weißbrich
 
-## Tagungssprache
-Die Tagungssprachen sind deutsch und englisch. Deutsche Vorträge werden simultan ins Englische übersetzt. Im Tagungsprogramm sind die Vortragstitel an erster Stelle in der Sprache aufgeführt, in der sie gehalten werden.
+### Donnerstag, 23. Juni 2016
 
-## Programm
+12:30 Uhr / *Registrierung*
 
-### Donnerstag, 18. Februar 2016
+#### Begrüßung
 
-#### Eröffnungsvortrag und Empfang
-18:00 Uhr / Horst Bredekamp (Exzellenzcluster »*Bild Wissen Gestaltung*. Ein interdisziplinäres Labor«): Einführung   
-18:15 Uhr / Aileen Ribeiro (Courtauld Institute of Art, London): How Real is Dress in Art? | *Wie real ist Kleidung im Bild?*
+12:00 Uhr / Frédéric Billet, Vorsitzender der Misericordia International, Sorbonne Paris
+#### Einführung
+13:10 Uhr / Gerhard Weilandt, Ernst-Moritz-Arndt-Universität Greifswald  
 
-### Freitag, 19. Februar 2016
+#### Sektion I  Werkstattpraxis
+
+Chair: N.N.
+
+13.20	Dr. Thomas Eißing (Universität Bamberg): *Science of Joining structures as knowledge reservoir for workshop practices? A methodological introduction*
+
+14.00	Anja Seliger PhD-Cand. (Cluster of Excellence Image Knowledge Gestaltung, Humboldt-University Berlin, Germany): *To get an idea – Visualization as a starting point in the manufacturing process*
+
+14.40			Break
+
+14.50		Dr. Angela Glover (University of Toronto, Canada): *Module as Model for Early Modern Choir Stalls*
+
+15.30		Dr. Kristiane Lemé-Hébuterne (Amiens, France): *Big seats for fat Benedictines, small ones for slender Cistercians? – Some statistics on the size*
+
+16.10		Break
+
+#### Sektion II 	 Chorgestühle der frühen Neuzeit –  Tradition oder Neubeginn?
+Chair: N.N.
+
+16.25	Volker Dietzel (Dresden, Germany): *Berufsbezeichnungen und Werkzeugnamen der Tischler, Schreiner und Kistler*
+
+17.05		Dr. Ulrich Knapp (Leonberg, Germany): *The Choir stalls of Salem Cistercian Monastery Church as testimony of liturgical and economical re-forms (1588 till 1593)*
+
+17.45	Dr. Jörg Lampe (Akademie der Wissenschaften, Inschriftenkommission, Göttingen, Germany): *The Choir Stalls of the Monasteries of Pöhlde and St. Alexandri in Einbeck – Observa-tions on their Time of Origin from an Epigraphical and Historical Point of View*
+
+18.25		Break
+
+
+19.00 			*Keynote*
+
+Dorothee Heim (Berlin, Germany): *The woodcarver Rodrigo Alemán. An international acting choir stalls maker and businessman in Spain about 1500*
+
+20.15 			Get-together
+
+
+
+### Freitag, 24. Juni 2016
 
 09:30 Uhr / *Registrierung, Kaffeeauftakt*
 
-#### KleiderBilder als heuristisches Problem
-10:15 Uhr / William Kynan-Wilson (Aalborg Universitet): Limitations and Possibilities – Ottoman Costume Albums as Sources of Clothing | *Grenzen und Möglichkeiten – Osmanische Trachtenbücher als Kleiderquellen*
+### Sektion III 	Steinerne Gestühle - eine vergessene Möbelgattung
+Chair: N.N.
 
-#### Form und Norm zwischen Bild und Realie
-11:00 Uhr / Juliane von Fircks (Johannes Gutenberg-Universität Mainz): Der Pourpoint des Charles de Blois. Männermode im 14. Jahrhundert | *The Pourpoint of Charles de Blois. Fourteenth Century Men's Fashion*  
-11:45 Uhr / Thomas Weißbrich (Deutsches Historisches Museum, Berlin): Des Königs Rock zwischen Sein und Schein | *The Emperor's New Clothes Between Appearance and Reality*   
+10.00 		Dr. Jörg Widmaier (SFB University Tübingen, Germany): *The stone bench of Burs – Gotland’s masonry in context and their connections to the main land*
 
-12:30 Uhr / *Mittagspause*
+10.40		Erica Lioc PhD-Cand. (Andrew W. Mellon Santiago Cathedral Program, Harvard, USA): *The stone choir in Santiago de Compostela Spain*
 
-#### Textilien im Porträt
-14:00 Uhr / Karen Hearn (University College, London): From the Life? Representing Textlies in Tudor Portraits | *Nach der Natur gemalt? Die Darstellung von Textilien in Bildnissen der Tudor-Zeit*   
-14:45 Uhr / Marcia Pointon (University of Manchester): Enduring Characteristics and Unstable Hues: Men in Black in French Painting in the 1860s and 1870s | *Dauerhafte Eigenschaften und unbeständige Farbtöne: Schwarz gekleidete Männer in französischen Gemälden der 1860er und 1870er Jahre*
+11.20			Break
 
-15:30 Uhr / *Kaffeepause*
+11.40 	Dr. James Alexander Cameron (The Courtauld Institute of Art, UK): *Microarchitectural reflexivity in the design of sedilia and choir stalls*
 
-#### Gender, Kleidermode und ihre visuelle Inszenierung
-16:00 Uhr / Barbara Schmelzer-Ziringer (Berlin): Modegeschichte als Machtgeschichte in Bildern. Zur Genese der vergeschlechtlichten bürgerlichen Silhouetten zur Zeit des höfischen Absolutismus | *On the Evolution of Gendered Bourgeois Silhouettes in the Age of Courtly Absolutism*   
-16:45 Uhr / Änne Söll (Ruhr-Universität Bochum): Tyrann oder Pantoffelheld? Die modische Ratgeberliteratur für Männer der 1920er Jahre und ihr Verhältnis zum neu-sachlichen Männerporträt | *Tyrant or Henpecked Husband? Fashion Advice Literature for Men in the 1920s and its Relation to New Objectivist Image of Masculinity*   
-17:30 Uhr / Anne K. Reimers (University for the Creative Arts, Rochester/University College, London): Temporality, Style and the Vocabulary of Fashion in 1920s German Arts Criticism | *Zeithaftigkeit, Stil und Modewörter in der deutschen Kunstkritik der 1920er Jahre*
+### Sektion IV 	Autorenschaft und Werkgruppen
+Chair: Gerhard Weilandt (EMA-University Greifswald, Germany)
 
-### Samstag, 20. Februar 2016
+12.20 	Christel Theunissen PhD-Cand. (Radboud University Nijmegen, Netherlands): *Jan Borchman and his fellow craftsmen. The creation of choir stalls in the Low Countries*
 
-#### Textile und vestimentäre Quellen
-09:30 Uhr / Clare Rose (Royal School of Needlework, London): Textile and Texts – Sources for Studying 18th-century Quilted Petticoats | *Textilien und Schrift – Quellen für die Erforschung von abgesteppten Röcken des 18. Jahrhunderts*   
-10:15 Uhr / Johannes Pietsch (Bayerisches Nationalmuseum, München): Historische Gewänder als Primärquellen der Kleidungsforschung | *Historic Garments as Primary Sources for Dress Research*
+13.00	 		Lunch Break
 
-11:00 Uhr / *Kaffeepause*
+14.20		Dr. Barbara Spanjol-Pandelo (University of Rijeka, Croatia): *Matteo Moronzon – an artist or a project manager of a woodcarv-ing workshop?*
 
-#### Quellenkritik zwischen Bild und Schrift
-11:30 Uhr / Leoni Heeger (Halle): Bilder in Zahlen – Die statistische Untersuchung von Kleidung in mittelalterlichen Bildquellen | *Pictures in Numbers: The Statistical Analysis of Clothing in Medieval Visual Sources*   
-12:15 Uhr / Janine Jakob (Universität Zürich): Edler Putz macht Damen. Mode zwischen Mandat und Alltagspraxis in Basel, Zürich und Luzern 1650–1790 | *The Clothes Make the Lady. Fashion Between Mandate and Everyday Practice in Basel, Zurich and Lucerne 1650–1790*
 
-13:00 Uhr / *Mittagspause*
+15.00		Dr. Willy Piron (Radboud University, Nijmegen, Netherlands): *The bilobate misericords of the Lower-Rhine area: a local phenomenon?*
 
-#### KleiderBilder und Kleiderordnungen I
-14:30 Uhr / Giulia Galastro (University of Cambridge): Forbidden Finery: Sumptuary Laws in Action in 16-Century Genoa | *Verbotener Aufputz: Angewandte Luxusgesetze in Genua im 16. Jahrhundert*   
-15:15 Uhr / Wilm Grunwaldt (Humboldt-Universität zu Berlin): Von der Vorschrift zum Vorbild. Popularisierung policeylicher Kleiderordnungen in moralischen Wochenschriften | *From Regulations to Role Models. Popularization of Public Dress Codes in Moral Weeklies*
+15.40			Break
 
-16:00 Uhr / *Kaffeepause*
+16.00	Dr. Detlef Witt (Berlin, Germany): *Anklam - An example of stalls in parish churches in Pomeranian*
 
-#### KleiderBilder und Kleiderordnungen II
-16:30 Uhr / Astrid Ackermann & Stefanie Freyer (Friedrich-Schiller-Universität Jena & Universität Osnabrück): Fehler im (ständischen) System? Die Uneindeutigkeit vestimentärer Kommunikation | *Mistakes in the (Feudal) System? The Ambiguity of Vestimentary Communication*   
-17:15 Uhr / Tatjana Petzer & Martin Treml (Zentrum für Literatur- und Kulturforschung, Berlin): "Kleiderordnungen": Versuch zu einer Figur kulturwissenschaftlicher Forschung | *"Dress Codes": Exploring a Figure of Cultural Studies*
+16.40		Kaja von Cossart (Drechow, Germany): *The choir and other 13th century furniture in the Cistercian Monastery Doberan*
 
-### Sonntag, 21. Februar 2016
 
-#### Zeichen, Symbole und Bedeutungswandel im Bild
-10:00 Uhr / Sara van Dijk (Rijksmuseum, Amsterdam): Portrait of a Jewel. Bianca Maria Sforza's Jewellery in Word and Image | *Porträt eines Edelsteins. Das Geschmeide der Bianca Maria Sforza in Wort und Bild*   
-10:45 Uhr / Herbert Kopp-Oberstebrink (Zentrum für Literatur- und Kulturforschung, Berlin): Von der Culotte zum "existenziellen Anzug", vom Hof in die akademische Welt. Stationen in der Karriere der Kniebundhose | *From the Culotte to the "Existential Suit", from the Court to Academia. Stations in the Career of Knee-Lenght Trousers*   
-11:30 Uhr / Mateusz Kapustka (Universität Zürich): Clothes for the Mission | *Kleidung für die Mission*    
+17.20		 	Final discussion
 
-<a href="../files/Conf_Presenters_Web.pdf" class="download">↓ Kurzbiographien der Präsentierenden</a>
+18.00 	General meeting of the Misericordia International members
+
+20.00   Get-together
+
+### Samstag 25.Juni 2016
+Ganztagsexkursion
+Treffpunkt:	8.00  Bahnhofsvorplatz
+
+
+9.30	Ribnitz-Damgarten, St. Klaren-Kloster
+12.00	Rostock, Kloster zum Heiligen Kreuz, heute Universitätskirche und Kultuhistorisches Museum Rostock
+
+Mittagspause in Rostock, Weiterfahrt 14.45
+
+15.15	Bad Doberan, Münster, ehemalige Zisterzienserklosterkirche
+17.15 	Retschow, Dorfkirche
+
+18.00 Uhr Rückfahrt nach Greifswald
+
+
+###	Sonntag 26.Juni 2016
+
+Halbtagesexkursion nach Stralsund
+
+Treffpunkt:	8.00 Banhof Greifswald
+
+St. Nikolaikirche (Riga-Fahrer-Gestühl u.a.)
+
+St. Jakobikirche (Depot)
+
+Kulturhistorisches Museum Stralsund (ehemaliges St. Katharinen Kloster, Fragmente aus Anklam)
+
+Wir werden die Stadt Stralsund zu Fuß erkunden und in der Jacobikirche enge Treppen erklimmen. Bitte berücksichtigen Sie dies bei der Wahl ihres Schuhwerkes und der Kleidung.
+
+Tagungsende gegen 14 Uhr.
+
+
 
 ![Separator](../images/separator.png)
