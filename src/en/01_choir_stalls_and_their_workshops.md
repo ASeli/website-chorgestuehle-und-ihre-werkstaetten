@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Signs and Symbols
+title: Choir stalls and their workshops
 language: en
 ---
 
@@ -15,11 +15,11 @@ Cluster of Excellence »_Image Knowledge Gestaltung_. An Interdisciplinary Labor
 
 <a href="../files/flyer.pdf" class="download">↓ Download Programme</a>
 
-Choir stalls were not only simple seating for the priests and monks. With their highly complex imaging systems they were also one of the most important and complex artistic tasks in medieval cathedrals, monastic churches, and even parishes.
-In recent years, research has focused primarily on iconographic research and formal and stylistic analysis, as has the research of Misericordia International. There are very few studies dedicated to the workshops and their working conditions. Therefore this year the Misericordia International conference in Greifswald will deal with the workshop context of the choir stalls for the first time.
-In addition to questions about substantive and economic mechanisms of art production the conference will deal with basic knowledge craftsmanship such as the structure studies. It also examines the use of drawings and models in the production of choir stalls.
+Choir stalls were not only simple seating for the priests and monks. With their highly complex imaging systems they were also one of the most important and demanding artistic tasks in medieval cathedrals, monastic churches, and even parishes.
+In recent years, research has focused primarily on iconographic questions and formal and stylistic analysis, as has the research of Misericordia International. There are very few studies dedicated to the workshops and their working conditions. Therefore this year the Misericordia International conference in Greifswald will deal with the workshop context of the choir stalls for the first time.
+In addition to questions about substantive and economic mechanisms of art production the conference examines basic knowledge of craftsmanship the use of drawings and models in the production of choir stalls.
 
-The target group of the conference are researchers in art history, economic and technical history, image based working Historiens and conservators.
+The target group of the conference includes researchers in art history, economic and technical history, image based working historians and conservators.
 
 The venue Greifswald is chosen wisely. North Germany has a rich *choir landscape* whose research is a rewarding task. Nevertheless, despite work by relevant scientists that wealth is not well known, let alone scientifically. The colloquium will thus stimulate a reinterpretation of the liturgical furniture and provide new impulses.
 
