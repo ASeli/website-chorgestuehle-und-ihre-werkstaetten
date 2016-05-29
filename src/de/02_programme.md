@@ -13,9 +13,9 @@ language: de
 
 #### Begrüßung
 
-13:00 Uhr  Frédéric Billet, Vorsitzender der Misericordia International, Sorbonne Paris
+13:00 Uhr  Frédéric Billet, Vorsitzender der Misericordia International, Sorbonne Paris: *Begrüßung*
 
-13:10 Uhr  Gerhard Weilandt, Ernst-Moritz-Arndt-Universität Greifswald  *Einführung*
+13:10 Uhr  Gerhard Weilandt, Ernst-Moritz-Arndt-Universität Greifswald: *Einführung*
 
 #### Sektion I  Werkstattpraxis
 
