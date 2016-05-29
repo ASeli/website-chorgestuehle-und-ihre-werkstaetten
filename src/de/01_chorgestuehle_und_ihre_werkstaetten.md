@@ -3,8 +3,8 @@ layout: page
 title: Chorgestühle und ihre Werkstätten
 language: de
 ---
-**Ernst-Moritz-Arndt-Universität Greifswald,**
-**Misericordia International,**
+**Ernst-Moritz-Arndt-Universität Greifswald,**  
+**Misericordia International,**  
 **Exzellenzcluster »_Bild Wissen Gestaltung_. Ein interdisziplinäres Labor«, Humboldt-Universität zu Berlin**
 
 # Chorgestühle und ihre Werkstätten
