@@ -31,7 +31,7 @@ Greifswald ist mit dem Zug komfortabel zu erreichen. Der Greifswalder Hauptbahnh
 Der Zustieg in alle Züge von Berlin nach Greifswald ist an den Bahnhöfen Berlin-Hauptbahnhof und Berlin-Gesundbrunnen möglich.
 
 Stündlich gibt es eine Verbindung nach Greifswald. Die Fahrt von Berlin nach Greifswald dauert rund 2,5 Stunden.
-Fahrpreis (einfach/ohne Ermäßigungen): rund 30 € (RE), 39 € (IC/EC)
+Fahrpreis (einfach/ohne Ermäßigungen): rund 30 € (RE), 39 € (IC/EC). Besonders günstig ist das Ostsee-Ticket, dass für Hin- und Rückfahrt gilt.
 
 Die Fahrt von Hamburg nach Greifswald dauert rund drei bis fünf Stunden. Es gibt regelmäßige Verbindungen mit Zu-/Umsteigemöglichkeiten in Stralsund, Lübeck oder Rostock.
 Fahrpreis (einfach/ohne Ermäßigungen): zwischen 42 und 54 €
