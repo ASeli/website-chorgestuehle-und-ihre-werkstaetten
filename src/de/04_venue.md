@@ -13,7 +13,7 @@ Domstraße 11 / Eingang 2
 
 17489 Greifswald
 
-<iframe width="100%" height="500px" frameBorder="0" src="https://a.tiles.mapbox.com/v4/frau-sabine.o0557fei.html?access_token=pk.eyJ1IjoiZnJhdS1zYWJpbmUiLCJhIjoiY2lnNm9saHZ4MGhkb3ZsbTZ5eXkwMXRhMSJ9.YNRk22lOO3ngLgUvJQovCg"></iframe>
+<iframe width="100%" height="500px" frameBorder="0" src="Conf_GettingHere_Web.pdf"></iframe>
 
 
 #### Tagung (Donnerstag, 23. Juni 2016 bis Freitag, 24. Juni 2016)  
