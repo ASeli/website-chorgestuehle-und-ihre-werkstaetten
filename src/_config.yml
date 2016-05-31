@@ -1,11 +1,11 @@
 # Site settings
-title: Conf. Signs and Symbols. Dress at the Intersection between Image and Realia
-subtitle: Berlin, February 18–21, 2016
-email: bwg.zeichen-und-symbole@hu-berlin.de
+title: Conf. Choir stalls and workshops.
+subtitle: Greifswald, June 23–26, 2016
+email: seligera@cms.hu-berlin.de
 description: > # this means to ignore newlines until "baseurl:"
   TBA
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://zeichen-und-symbole.bwg.hu-berlin.de"
+url: "http://www.chorgestuehle-und-ihre-werkstaetten.bwg.hu-berlin.de/en.html"
 port: 80
 
 # Build settings
