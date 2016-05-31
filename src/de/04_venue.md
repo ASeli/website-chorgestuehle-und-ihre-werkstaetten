@@ -13,6 +13,8 @@ Domstraße 11 / Eingang 2
 
 17489 Greifswald
 
+![map](../images/map.jpg)
+
 <iframe width="100%" height="500px" frameBorder="0" src="Conf_GettingHere_Web.pdf"></iframe>
 
 

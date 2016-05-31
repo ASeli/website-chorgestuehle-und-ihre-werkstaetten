@@ -17,6 +17,6 @@ Gebühren werden für die Teilnahme an den Exkursionen erhoben. Inklusive aller 
 
 12 Euro für die Bahnexkursion am 26.06.2016
 
-Die Anmeldung können Sie unter diesem Link vornehmen https://www.interdisciplinary-laboratory.hu-berlin.de/de/anmeldeformular-tagung-chorgestuehle-und-ihre-werkstaetten oder senden Sie eine Email an seligera@cms.hu-berlin.de.
+Die Anmeldung können Sie unter diesem Link vornehmen [https://www.interdisciplinary-laboratory.hu-berlin.de/de/anmeldeformular-tagung-chorgestuehle-und-ihre-werkstaetten](https://www.interdisciplinary-laboratory.hu-berlin.de/de/anmeldeformular-tagung-chorgestuehle-und-ihre-werkstaetten) oder senden Sie eine Email an [seligera@cms.hu-berlin.de](seligera@cms.hu-berlin.de).
 
 ![Separator](../images/separator.png)

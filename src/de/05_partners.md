@@ -28,7 +28,8 @@ Johannes Herseni, Interface Designer, »_Bild Wissen Gestaltung_. Ein interdiszi
 [http://johannesherseni.com](http://johannesherseni.com/)
  Babette Wiezorek, Product Designer, »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«   
 
-Babette Wiezorek, Product Designer,  »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory« (https://www.interdisciplinary-laboratory.hu-berlin.de/de/personen/babette-wiezorek)
+Babette Wiezorek, Product Designer,  »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«
+[https://www.interdisciplinary-laboratory.hu-berlin.de/de/personen/babette-wiezorek](https://www.interdisciplinary-laboratory.hu-berlin.de/de/personen/babette-wiezorek)
 
 ## Kontakt
 

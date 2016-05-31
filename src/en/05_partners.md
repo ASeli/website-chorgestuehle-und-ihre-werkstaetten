@@ -26,7 +26,8 @@ Prof. Dr. Gerhard Weilandt, Ernst-Moritz-Arndt-University, Caspar-David-Friedric
 
 Johannes Herseni, Interface Designer, »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«   
 [http://johannesherseni.com](http://johannesherseni.com/)
-Babette Wiezorek, Product Designer,  »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory« (https://www.interdisciplinary-laboratory.hu-berlin.de/de/personen/babette-wiezorek)
+Babette Wiezorek, Product Designer,  »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«
+[www.interdisciplinary-laboratory.hu-berlin.de/de/personen/babette-wiezorek](https://www.interdisciplinary-laboratory.hu-berlin.de/de/personen/babette-wiezorek)
 
 ## Contact
 
@@ -35,7 +36,5 @@ Humboldt-Universität zu Berlin
 Unter den Linden 6  
 10099 Berlin  
 
-E-Mail: [bwg.zeichen-und-symbole@hu-berlin.de](mailto:bwg.zeichen-und-symbole@hu-berlin.de)  
+E-Mail: [seligera@cms.hu-berlin.de](mailto:seligera@cms.hu-berlin.de)  
 Web: [www.interdisciplinary-laboratory.hu-berlin.de](http://www.interdisciplinary-laboratory.hu-berlin.de)
-
-Picture credits: SMB, Kunstbibliothek, Sammlung-Modebild
