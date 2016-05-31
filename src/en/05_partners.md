@@ -4,17 +4,15 @@ title: Partners
 language: en
 ---
 
-# Partners
+# Legal Notice
 
-## A Conference organized by the Ernst-Moritz-Arndt-University, Caspar-David-Friedrich-Institut and Misericordia International in collaboration with Cluster of Excellence »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory« and funded by German Research Foundation (DFG)
-
-
+A Conference organized by the Ernst-Moritz-Arndt-University, Caspar-David-Friedrich-Institut and Misericordia International in collaboration with Cluster of Excellence »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory« and funded by German Research Foundation (DFG)
 
 ## Partners
 
-[![Logo Ernst-Moritz-Arndt-University AMD](../images/amd.png){: width="248px" margin-right="10px"}](http://www.cdfi.de/)
+[![Logo Ernst-Moritz-Arndt-University AMD](../images/unig.png){: width="248px" margin-right="10px"}](http://www.cdfi.de/)
 
-[![Logo Netzwerk Misericordia International](../images/nmt.png){: width="248px"}](http://misericordia-international.blogspot.co.uk/)
+[![Logo Netzwerk Misericordia International](../images/misint.png){: width="248px"}](http://misericordia-international.blogspot.co.uk/)
 
 [![Logo Exzellenzcluster Bild Wissen Gestaltung](../images/bwg.jpg){: width="500px"}](https://www.interdisciplinary-laboratory.hu-berlin.de)
 

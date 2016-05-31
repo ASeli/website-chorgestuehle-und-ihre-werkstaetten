@@ -4,20 +4,18 @@ title: Partner
 language: de
 ---
 
-# Partner
+# Impressum
 
-## Eine Tagung der Universität Greifswald und dem Netzwerk Misericordia International
+Eine Tagung der Ernst-Moritz-Arndt-Universität, Caspar-David-Friedrich-Institut und Misericordia International in Kooperation mit dem Exzellenzcluster »_Bild Wissen Gestaltung_. Ein interdisziplinäres Labor«. Gefördert durch die Deutsche Forschungsgemeinschaft (DFG)
 
 
 ## Partner
 
-[![Logo Netzwerk Misericordia International](../images/nmt.png){: width="248px"}](http://www.netzwerk-mode-textil.de)
+[![Logo Ernst-Moritz-Arndt-University AMD](../images/unig.png){: width="248px" margin-right="10px"}](http://www.cdfi.de/)
 
-Exzellenzclusters »*Bild Wissen Gestaltung*. Ein interdisziplinäres Labor«
+[![Logo Netzwerk Misericordia International](../images/misint.png){: width="248px"}](http://misericordia-international.blogspot.co.uk/)
 
 [![Logo Exzellenzcluster Bild Wissen Gestaltung](../images/bwg.jpg){: width="500px"}](https://www.interdisciplinary-laboratory.hu-berlin.de)
-
-
 
 ## Konzept und Organisation
 

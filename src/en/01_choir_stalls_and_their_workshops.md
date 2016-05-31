@@ -4,9 +4,9 @@ title: Choir stalls and their workshops
 language: en
 ---
 
-### Ernst-Moritz-Arndt-University Greifswald
-### Misericordia International
-Cluster of Excellence »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«, Humboldt-Universität zu Berlin
+**Ernst-Moritz-Arndt-University Greifswald,**  
+**Misericordia International,**  
+**Cluster of Excellence »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«, Humboldt-Universität zu Berlin**
 
 # Choir stalls and their workshops
 
