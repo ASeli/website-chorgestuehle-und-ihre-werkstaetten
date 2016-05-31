@@ -22,7 +22,7 @@ language: de
 
 13.20	Thomas Eißing (Universität Bamberg): *Science of Joining structures as knowledge reservoir for workshop practices? A methodological introduction*
 
-14.00	Anja Seliger (Cluster of Excellence Image Knowledge Gestaltung, Humboldt-University Berlin): *To get an idea – Visualization as a starting point in the manufacturing process*
+14.00	Anja Seliger (Exzellenzcluster Bild Wissen Gestaltung, Humboldt-Universität Berlin): *To get an idea – Visualization as a starting point in the manufacturing process*
 
 14.40			Break
 
@@ -60,7 +60,7 @@ Dorothee Heim (Berlin): *The woodcarver Rodrigo Alemán. An international acting
 
 10.00 Jörg Widmaier (Universität Tübingen): *The stone bench of Burs – Gotland’s masonry in context and their connections to the main land*
 
-10.40		Erica Lioc (Harvard University): *The stone choir in Santiago de Compostela Spain*
+10.40		Erika Loic (Harvard University): *The stone choir in Santiago de Compostela Spain*
 
 11.20			Break
 

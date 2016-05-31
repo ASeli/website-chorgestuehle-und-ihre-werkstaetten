@@ -62,7 +62,7 @@ Presentations will be held in English and German. Bilingual abstracts are provid
 
 10.00 		Jörg Widmaier (University Tübingen): *The stone bench of Burs – Gotland’s masonry in context and their connections to the main land*
 
-10.40		Erica Lioc (University Harvard): *Liturgical Activation of Master Mateo’s Stone Choir in Santiago de Compostela*
+10.40		Erika Loic (University Harvard): *Liturgical Activation of Master Mateo’s Stone Choir in Santiago de Compostela*
 
 11.20			Break
 

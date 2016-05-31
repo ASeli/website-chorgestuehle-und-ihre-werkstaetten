@@ -26,6 +26,7 @@ Prof. Dr. Gerhard Weilandt, Ernst-Moritz-Arndt-University, Caspar-David-Friedric
 
 Johannes Herseni, Interface Designer, »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«   
 [http://johannesherseni.com](http://johannesherseni.com/)
+
 Babette Wiezorek, Product Designer,  »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«
 [www.interdisciplinary-laboratory.hu-berlin.de/de/personen/babette-wiezorek](https://www.interdisciplinary-laboratory.hu-berlin.de/de/personen/babette-wiezorek)
 
