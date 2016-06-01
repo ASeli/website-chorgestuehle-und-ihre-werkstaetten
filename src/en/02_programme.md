@@ -25,7 +25,6 @@ Presentations will be held in English and German. Bilingual abstracts are provid
 
 13.20	Thomas Eißing (University Bamberg): *Science of Joining structures as knowledge reservoir for workshop practices? A methodological introduction*
 
-
 14.00	Anja Seliger (Cluster of Excellence Image Knowledge Gestaltung Berlin): *To get an idea – Visualization as a starting point in the manufacturing process*
 
 14.40			Break
@@ -45,7 +44,6 @@ Presentations will be held in English and German. Bilingual abstracts are provid
 17.45	Jörg Lampe (Academy of Science Göttingen): *The choir stalls of the monasteries of Pöhlde and St. Alexandri in Einbeck – Observations on their time of origin from an epigraphical and historical point of View*
 
 18.25		Break
-
 
 #### Keynote Lecture
 19.00 Dorothee Heim (Berlin): *The woodcarver Rodrigo Alemán. An international acting choir stalls maker and businessman in Spain around 1500*
@@ -91,11 +89,11 @@ Presentations will be held in English and German. Bilingual abstracts are provid
 
 20.00 			Get-together
 
+
 ### Saturday, 25. June 2016
 
 #### Whole-day excursion
 Meeting point:	8.00 bus terminal Greifswald
-
 
 9.30	Bad Doberan, Münster, former Cistercian Monastery Church
 
@@ -103,16 +101,14 @@ Meeting point:	8.00 bus terminal Greifswald
 
 12.30	Rostock, Monastery Church Holy Cross, now the church of Rostock University and Museum
 
-Lunch break in Rostock (self service, several possibilities very close to the museum)
 *Departure 15.30*
 
 16.00 	Ribnitz-Damgarten, Monastery Church
 
 18.00 Departure to Greifswald
 
+
 ### Sunday, 26. June 2016
-
-
 
 Half-day excursion to Stralsund
 

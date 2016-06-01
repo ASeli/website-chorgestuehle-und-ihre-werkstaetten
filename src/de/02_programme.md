@@ -42,7 +42,6 @@ language: de
 
 18.25		Break
 
-
 19.00 			*Keynote*
 
 Dorothee Heim (Berlin): *The woodcarver Rodrigo Alemán. An international acting choir stalls maker and businessman in Spain about 1500*
@@ -56,7 +55,6 @@ Dorothee Heim (Berlin): *The woodcarver Rodrigo Alemán. An international acting
 09:30 Uhr  *Registrierung, Kaffeeauftakt*
 
 ### Sektion III 	Steinerne Gestühle - eine vergessene Möbelgattung
-
 
 10.00 Jörg Widmaier (Universität Tübingen): *The stone bench of Burs – Gotland’s masonry in context and their connections to the main land*
 
@@ -72,8 +70,7 @@ Dorothee Heim (Berlin): *The woodcarver Rodrigo Alemán. An international acting
 
 13.00	 		Lunch Break
 
-14.20	Barbara Spanjol-Pandelo (University of Rijeka): *Matteo Moronzon – an artist or a project manager of a woodcarv-ing workshop?*
-
+14.20	Barbara Spanjol-Pandelo (University of Rijeka): *Matteo Moronzon – an artist or a project manager of a woodcarving workshop?*
 
 15.00	Willy Piron (Radboud University, Nijmegen): *The bilobate misericords of the Lower-Rhine area: a local phenomenon?*
 
@@ -90,10 +87,10 @@ Dorothee Heim (Berlin): *The woodcarver Rodrigo Alemán. An international acting
 
 20.00   Get-together
 
+
 ### Samstag 25.Juni 2016
 Ganztagsexkursion
 Treffpunkt:	8.00  Bahnhofsvorplatz
-
 
 9.30	Bad Doberan, Münster, ehemalige Zisterzienserklosterkirche
 
@@ -120,7 +117,7 @@ St. Jakobikirche (Depot)
 
 Kulturhistorisches Museum Stralsund (ehemaliges St. Katharinen-Kloster, Fragmente aus Anklam)
 
-Wir werden die Stadt Stralsund zu Fuß erkunden und in der Jacobikirche enge Treppen erklimmen. Bitte berücksichtigen Sie dies bei der Wahl ihres Schuhwerkes und der Kleidung.
+Wir werden die Stadt Stralsund zu Fuß erkunden. Bitte berücksichtigen Sie dies bei der Wahl ihres Schuhwerkes und der Kleidung.
 
 Tagungsende gegen 14 Uhr.
 
