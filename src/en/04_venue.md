@@ -7,7 +7,7 @@ language: en
 # Venue
 
 
-#### Conference (Thursday and Friday, 23.-24. June 2016)   
+## Conference (Thursday and Friday, 23.-24. June 2016)   
 Ernst-Moritz-Arndt-Universität Greifswald
 
 *Konferenzsaal*

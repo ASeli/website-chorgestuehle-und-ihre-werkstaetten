@@ -21,16 +21,16 @@ Domstraße 11 / Eingang 2
 <a href="../files/Conf_GettingHere_Web.pdf" class="download">↓ [How to get there]</a><br>
 
 
-##### Tagung (Donnerstag, 23. Juni 2016 bis Freitag, 24. Juni 2016)  
+### Tagung (Donnerstag, 23. Juni 2016 bis Freitag, 24. Juni 2016)  
 Ernst-Moritz-Arndt-Universität Greifswald
 *Konferenzsaal* im Hauptgebäude der Universität Greifswald
 Domstraße 11 / Eingang 2
 
-##### Exkursion
-beide Exkursionen starten am Bahnhof Greifswald.
+### Exkursion
+Beide Exkursionen starten am Bahnhof Greifswald.
 
 
-##### Anreise
+### Anreise
 Greifswald ist mit dem Zug komfortabel zu erreichen. Der Greifswalder Hauptbahnhof liegt in unmittelbarer Nähe zum Universitätsgebäude in der Innenstadt. Er wird von der Strecke Stralsund-Berlin bedient und ist  sowohl mit dem Inter-City, als auch mit dem Regionalexpress über eine Direktverbindung von Berlin erreichbar.
 
 Der Zustieg in alle Züge von Berlin nach Greifswald ist an den Bahnhöfen Berlin-Hauptbahnhof und Berlin-Gesundbrunnen möglich.
