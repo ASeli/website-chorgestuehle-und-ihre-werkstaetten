@@ -96,7 +96,7 @@ Treffpunkt:	8.00  Bahnhofsvorplatz
 
 11.00	Retschow, Dorfkirche
 
-12.15	Rostock, Kloster zum Heiligen Kreuz, heute Universitätskirche und Kultuhistorisches Museum Rostock
+12.15	Rostock, Kloster zum Heiligen Kreuz, heute Universitätskirche und Kulturhistorisches Museum Rostock
 
 Mittagspause in Rostock, Weiterfahrt 15.30
 
