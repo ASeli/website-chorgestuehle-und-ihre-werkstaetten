@@ -19,6 +19,7 @@ language: de
 
 #### Sektion I  Werkstattpraxis
 
+Chair: Frédéric Billet
 
 13.20	Thomas Eißing (Universität Bamberg): *Science of Joining structures as knowledge reservoir for workshop practices? A methodological introduction*
 
@@ -34,6 +35,8 @@ language: de
 
 #### Sektion II 	 Chorgestühle der frühen Neuzeit –  Tradition oder Neubeginn?
 
+Chair: N.N.
+
 16.25	Volker Dietzel (Dresden): *Berufsbezeichnungen und Werkzeugnamen der Tischler, Schreiner und Kistler*
 
 17.05	Ulrich Knapp (Leonberg): *The Choir stalls of Salem Cistercian Monastery Church as testimony of liturgical and economical re-forms (1588 till 1593)*
@@ -42,7 +45,7 @@ language: de
 
 18.25		Break
 
-19.00 			*Keynote*
+19.00 			*Abendvortrag* in der Aula
 
 Dorothee Heim (Berlin): *The woodcarver Rodrigo Alemán. An international acting choir stalls maker and businessman in Spain about 1500*
 
@@ -56,6 +59,8 @@ Dorothee Heim (Berlin): *The woodcarver Rodrigo Alemán. An international acting
 
 ### Sektion III 	Steinerne Gestühle - eine vergessene Möbelgattung
 
+Chair: Jens Rüffer
+
 10.00 Jörg Widmaier (Universität Tübingen): *The stone bench of Burs – Gotland’s masonry in context and their connections to the main land*
 
 10.40		Erika Loic (Harvard University): *The stone choir in Santiago de Compostela Spain*
@@ -66,15 +71,19 @@ Dorothee Heim (Berlin): *The woodcarver Rodrigo Alemán. An international acting
 
 ### Sektion IV 	Autorenschaft und Werkgruppen
 
-12.20	Christel Theunissen (Radboud University Nijmegen): *Jan Borchman and his fellow craftsmen. The creation of choir stalls in the Low Countries*
+Chair: Anja Seliger
+
+12.20	Willy Piron (Radboud University, Nijmegen): *The bilobate misericords of the Lower-Rhine area: a local phenomenon?*
 
 13.00	 		Lunch Break
 
 14.20	Barbara Spanjol-Pandelo (University of Rijeka): *Matteo Moronzon – an artist or a project manager of a woodcarving workshop?*
 
-15.00	Willy Piron (Radboud University, Nijmegen): *The bilobate misericords of the Lower-Rhine area: a local phenomenon?*
+15.00	Christel Theunissen (Radboud University Nijmegen): *Jan Borchman and his fellow craftsmen. The creation of choir stalls in the Low Countries*
 
 15.40			Break
+
+Chair: Gerhard Weilandt
 
 16.00	Detlef Witt (Greifswald): *Anklam - An example of stalls in parish churches in Pomeranian*
 

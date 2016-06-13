@@ -23,6 +23,8 @@ Presentations will be held in English and German. Bilingual abstracts are provid
 
 #### Section I	 Workshop practices
 
+Chair: Frédéric Billet
+
 13.20	Thomas Eißing (University Bamberg): *Science of Joining structures as knowledge reservoir for workshop practices? A methodological introduction*
 
 14.00	Anja Seliger (Cluster of Excellence Image Knowledge Gestaltung Berlin): *To get an idea – Visualization as a starting point in the manufacturing process*
@@ -37,6 +39,8 @@ Presentations will be held in English and German. Bilingual abstracts are provid
 
 #### Section II 	 16th and 17th century choir stalls – tradition or restart?
 
+Chair: N.N.
+
 16.25	Volker Dietzel (Dresden): *Berufsbezeichnungen und Werkzeugnamen der Tischler, Schreiner und Kistler*
 
 17.05		Ulrich Knapp (Leonberg): *The Choir stalls of Salem Cistercian Monastery Church as testimony of liturgical and economical reforms (1588 till 1593)*
@@ -48,6 +52,8 @@ Presentations will be held in English and German. Bilingual abstracts are provid
 #### Keynote Lecture
 19.00 Dorothee Heim (Berlin): *The woodcarver Rodrigo Alemán. An international acting choir stalls maker and businessman in Spain around 1500*
 
+NB: Different room for keynote lecture!
+
 20.15 			Get-together
 
 
@@ -57,6 +63,8 @@ Presentations will be held in English and German. Bilingual abstracts are provid
 09.30 			Registration and welcome coffee
 
 #### Section III 	Choir stalls made of stone - a forgotten furniture
+
+Chair: Jens Rüffer
 
 10.00 		Jörg Widmaier (University Tübingen): *The stone bench of Burs – Gotland’s masonry in context and their connections to the main land*
 
@@ -69,6 +77,8 @@ Presentations will be held in English and German. Bilingual abstracts are provid
 
 #### Section IV 	Authorship and groups of work – case studies
 
+Chair: Anja Seliger
+
 12.20	Willy Piron (Radboud University, Nijmegen): *The bilobate misericords of the Lower-Rhine area: a local phenomenon?*
 
 13.00	 		Lunch Break
@@ -78,6 +88,8 @@ Presentations will be held in English and German. Bilingual abstracts are provid
 15.00		Barbara Spanjol-Pandelo (University of Rijeka): *Matteo Moronzon – an artist or a project manager of a woodcarving workshop?*
 
 15.40			Break
+
+Chair: Gerhard Weilandt
 
 16.00	Detlef Witt (Greifswald): *Die Wangen der Anklamer Chorgestühle*
 
