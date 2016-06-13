@@ -60,6 +60,7 @@ Dorothee Heim (Berlin): *The woodcarver Rodrigo Alemán. An international acting
 ### Sektion III 	Steinerne Gestühle - eine vergessene Möbelgattung
 
 Chair: Jens Rüffer
+
 10.00 Jörg Widmaier (Universität Tübingen): *The stone bench of Burs – Gotland’s masonry in context and their connections to the main land*
 
 10.40		Erika Loic (Harvard University): *The stone choir in Santiago de Compostela Spain*
@@ -71,6 +72,7 @@ Chair: Jens Rüffer
 ### Sektion IV 	Autorenschaft und Werkgruppen
 
 Chair: Anja Seliger
+
 12.20	Willy Piron (Radboud University, Nijmegen): *The bilobate misericords of the Lower-Rhine area: a local phenomenon?*
 
 13.00	 		Lunch Break
