@@ -18,7 +18,6 @@ Presentations will be held in English and German. Bilingual abstracts are provid
 ### Welcome
 
 13.00 Frédéric Billet, President of Misericordia International (Sorbonne Paris): *Welcome*
-
 13:10 Gerhard Weilandt (Universität Greifswald): *Introduction*
 
 #### Section I	 Workshop practices
