@@ -7,10 +7,22 @@ language: en
 # Venue
 
 
-## Conference (Thursday and Friday, 23.-24. June 2016)   
+## Conference
+Thursday and Friday, 23.-24. June 2016
 Ernst-Moritz-Arndt-Universität Greifswald
 
 *Konferenzsaal*
+at Mainbuilding University Greifswald
+
+Domstraße 11 / Entrance 2
+
+17489 Greifswald
+
+## Keynote
+Thursday 23. June 2016
+19.00
+
+*Aula*
 at Mainbuilding University Greifswald
 
 Domstraße 11 / Entrance 2

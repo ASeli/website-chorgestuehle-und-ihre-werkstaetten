@@ -113,13 +113,13 @@ Treffpunkt:	9.00 Bahnhof Greifswald
 
 St. Nikolaikirche (Riga-Fahrer-Gestühl u.a.)
 
-St. Jakobikirche (Depot)
-
 Kulturhistorisches Museum Stralsund (ehemaliges St. Katharinen-Kloster, Fragmente aus Anklam)
+
+14.00 St. Jakobikirche (Depot)
 
 Wir werden die Stadt Stralsund zu Fuß erkunden. Bitte berücksichtigen Sie dies bei der Wahl ihres Schuhwerkes und der Kleidung.
 
-Tagungsende gegen 14 Uhr.
+Tagungsende gegen 15 Uhr.
 
 
 

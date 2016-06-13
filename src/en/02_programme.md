@@ -118,12 +118,11 @@ The guided walking tour through Stralsund includes a visit to the inside of the 
 
 •	Church St. Nikolai
 
-•	Church St. Jacobi (Depot)
-
 •	Historical Museum Stralsund (St. Catherine’s Monastery)
 
+•	Church St. Jacobi (Depot)
 
-End of the conference approximately 14.00.
+End of the conference approximately 15.00.
 
 
 
