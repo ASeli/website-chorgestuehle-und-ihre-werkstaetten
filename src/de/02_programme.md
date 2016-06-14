@@ -67,7 +67,7 @@ Chair: Jens Rüffer
 
 11.20			Break
 
-11.40 	James Alexander Cameron (The Courtauld Institute of Art, London): *Microarchitectural reflexivity in the design of sedilia and choir stalls*
+11.35 	James Alexander Cameron (The Courtauld Institute of Art, London): *Microarchitectural reflexivity in the design of sedilia and choir stalls*
 
 ### Sektion IV 	Autorenschaft und Werkgruppen
 
@@ -77,22 +77,25 @@ Chair: Anja Seliger
 
 13.00	 		Lunch Break
 
-14.20	Barbara Spanjol-Pandelo (University of Rijeka): *Matteo Moronzon – an artist or a project manager of a woodcarving workshop?*
+14.20	Christel Theunissen (Radboud University Nijmegen): *Jan Borchman and his fellow craftsmen. The creation of choir stalls in the Low Countries*
 
-15.00	Christel Theunissen (Radboud University Nijmegen): *Jan Borchman and his fellow craftsmen. The creation of choir stalls in the Low Countries*
-
-15.40			Break
+15.00	Barbara Spanjol-Pandelo (University of Rijeka): *Matteo Moronzon – an artist or a project manager of a woodcarving workshop?*
 
 Chair: Gerhard Weilandt
 
-16.00	Detlef Witt (Greifswald): *Anklam - An example of stalls in parish churches in Pomeranian*
+15.40 Gerdi Maierbacher-Legl (HAWK-FH-Hildesheim): *Das Chorgestühl von 1537 aus Tobsdorf/Dupus in Siebenbürgen/Rumänien.
+Aspekte der Werktechnik und Bezüge zum Schäßburger Meister Johannes Reychmut*
 
-16.40	Kaja von Cossart (Drechow): *The choir and other 13th century furniture in the Cistercian Monastery Doberan*
+15.20			Break
+
+16.40	Detlef Witt (Greifswald): *Anklam - An example of stalls in parish churches in Pomeranian*
+
+17.20	Kaja von Cossart (Drechow): *The choir and other 13th century furniture in the Cistercian Monastery Doberan*
 
 
-17.20		 	Final discussion
+18.00		 	Final discussion
 
-18.00 	General meeting of the Misericordia International members
+18.45 	General meeting of the Misericordia International members
 
 20.00   Get-together
 
