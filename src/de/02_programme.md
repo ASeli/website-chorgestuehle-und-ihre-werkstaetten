@@ -84,7 +84,7 @@ Chair: Gerhard Weilandt
 15.40 Gerdi Maierbacher-Legl (HAWK-FH-Hildesheim): *Das Chorgestühl von 1537 aus Tobsdorf/Dupus in Siebenbürgen/Rumänien.
 Aspekte der Werktechnik und Bezüge zum Schäßburger Meister Johannes Reychmut*
 
-15.20			Break
+16.20			Break
 
 16.40	Detlef Witt (Greifswald): *Anklam - An example of stalls in parish churches in Pomeranian*
 
