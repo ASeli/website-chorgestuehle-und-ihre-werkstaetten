@@ -35,7 +35,7 @@ Chair: Frédéric Billet
 
 #### Sektion II 	 Chorgestühle der frühen Neuzeit –  Tradition oder Neubeginn?
 
-Chair: N.N.
+Chair: Gerdi Maierbacher-Legl
 
 16.25	Volker Dietzel (Dresden): *Berufsbezeichnungen und Werkzeugnamen der Tischler, Schreiner und Kistler*
 
@@ -58,7 +58,6 @@ Dorothee Heim (Berlin): *The woodcarver Rodrigo Alemán. An international acting
 09:30 Uhr  *Registrierung, Kaffeeauftakt*
 
 ### Sektion III 	Steinerne Gestühle - eine vergessene Möbelgattung
-
 Chair: Jens Rüffer
 
 10.00 Jörg Widmaier (Universität Tübingen): *The stone bench of Burs – Gotland’s masonry in context and their connections to the main land*
@@ -70,7 +69,6 @@ Chair: Jens Rüffer
 11.35 	James Alexander Cameron (The Courtauld Institute of Art, London): *Microarchitectural reflexivity in the design of sedilia and choir stalls*
 
 ### Sektion IV 	Autorenschaft und Werkgruppen
-
 Chair: Anja Seliger
 
 12.20	Willy Piron (Radboud University, Nijmegen): *The bilobate misericords of the Lower-Rhine area: a local phenomenon?*
