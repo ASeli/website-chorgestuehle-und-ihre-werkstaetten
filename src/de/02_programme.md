@@ -29,7 +29,7 @@ Chair: Frédéric Billet
 
 14.50		Angela Glover (University of Toronto): *Module as Model for Early Modern Choir Stalls*
 
-15.30		Kristiane Lemé-Hébuterne (Amiens): *Big seats for fat Benedictines, small ones for slender Cistercians? – Some statistics on the size*
+15.30		Kristiane Lemé-Hébuterne (Université de Picardie Jules Verne, Amiens): *Big seats for fat Benedictines, small ones for slender Cistercians? – Some statistics on the size*
 
 16.10		Break
 
