@@ -21,7 +21,7 @@ language: de
 
 Chair: Frédéric Billet
 
-13.20	Thomas Eißing (Universität Bamberg): *Science of Joining structures as knowledge reservoir for workshop practices? A methodological introduction*
+13.20	Thomas Eißing (Universität Bamberg): *Holzverbindungen und Holzartenauswahl als Quelle zur Erforschung historischer Handwerkstechniken - eine methodische Einführung*
 
 14.00	Anja Seliger (Exzellenzcluster Bild Wissen Gestaltung, Humboldt-Universität Berlin): *To get an idea – Visualization as a starting point in the manufacturing process*
 
@@ -47,7 +47,7 @@ Chair: Gerdi Maierbacher-Legl
 
 19.00 			*Abendvortrag* in der Aula
 
-Dorothee Heim (Berlin): *The woodcarver Rodrigo Alemán. An international acting choir stalls maker and businessman in Spain about 1500*
+Dorothee Heim (Berlin): *An international entrepreneur in Spain around 1500 - The carver Rodrigo Alemán and his choir stalls*
 
 20.15 			Get-together
 
@@ -62,22 +62,22 @@ Chair: Jens Rüffer
 
 10.00 Jörg Widmaier (Universität Tübingen): *The stone bench of Burs – Gotland’s masonry in context and their connections to the main land*
 
-10.40		Erika Loic (Harvard University): *The stone choir in Santiago de Compostela Spain*
+10.40		Erika Loic (Harvard University): *Liturgical Activation of Master Mateo’s Stone Choir in Santiago de Compostela*
 
 11.20			Break
 
-11.35 	James Alexander Cameron (The Courtauld Institute of Art, London): *Microarchitectural reflexivity in the design of sedilia and choir stalls*
+11.35 	James Alexander Cameron (The Courtauld Institute of Art, London): *Reflexivity between stone sedilia and ecclesiastical carpentry in medieval England*
 
 ### Sektion IV 	Autorenschaft und Werkgruppen
 Chair: Anja Seliger
 
-12.20	Willy Piron (Radboud University, Nijmegen): *The bilobate misericords of the Lower-Rhine area: a local phenomenon?*
+12.20	Willy Piron (Radboud University, Nijmegen): *The bilobate misericords of the Lower-Rhine area - A local phenomenon?*
 
 13.00	 		Lunch Break
 
 14.20	Christel Theunissen (Radboud University Nijmegen): *Jan Borchman and his fellow craftsmen. The creation of choir stalls in the Low Countries*
 
-15.00	Barbara Spanjol-Pandelo (University of Rijeka): *Matteo Moronzon – an artist or a project manager of a woodcarving workshop?*
+15.00	Barbara Spanjol-Pandelo (University of Rijeka): *Matteo Moronzon – An artist or a project manager of a woodcarving workshop?*
 
 Chair: Gerhard Weilandt
 
@@ -86,7 +86,7 @@ Aspekte der Werktechnik und Bezüge zum Schäßburger Meister Johannes Reychmut*
 
 16.20			Break
 
-16.40	Detlef Witt (Greifswald): *Anklam - An example of stalls in parish churches in Pomeranian*
+16.40	Detlef Witt (Greifswald): *Die Wangen der Anklamer Chorgestühle*
 
 17.20	Kaja von Cossart (Drechow): *The choir and other 13th century furniture in the Cistercian Monastery Doberan*
 

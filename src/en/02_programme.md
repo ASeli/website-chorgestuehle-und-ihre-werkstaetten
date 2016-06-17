@@ -26,7 +26,7 @@ Presentations will be held in English and German. Bilingual abstracts are provid
 
 Chair: Frédéric Billet
 
-13.20	Thomas Eißing (University Bamberg): *Science of Joining structures as knowledge reservoir for workshop practices? A methodological introduction*
+13.20	Thomas Eißing (University Bamberg): *Holzverbindungen und Holzartenauswahl als Quelle zur Erforschung historischer Handwerkstechniken - Eine methodische Einführung*
 
 14.00	Anja Seliger (Cluster of Excellence Image Knowledge Gestaltung Berlin): *To get an idea – Visualization as a starting point in the manufacturing process*
 
@@ -34,7 +34,7 @@ Chair: Frédéric Billet
 
 14.50		Angela Glover (University of Toronto): *Module as Model for Early Modern Choir Stalls*
 
-15.30		Kristiane Lemé-Hébuterne (Amiens): *Big seats for fat Benedictines, small ones for slender Cistercians? – Some statistics on the size*
+15.30		Kristiane Klemé-Hébuterne (Amiens): *Big seats for fat Benedictines, small ones for slender Cistercians? – Some statistics on the size*
 
 16.10		Break
 
@@ -51,7 +51,7 @@ Chair: N.N.
 18.25		Break
 
 #### Keynote Lecture
-19.00 Dorothee Heim (Berlin): *The woodcarver Rodrigo Alemán. An international acting choir stalls maker and businessman in Spain around 1500*
+19.00 Dorothee Heim (Berlin): *An international entrepreneur in Spain around 1500 - The carver Rodrigo Alemán and his choir stalls*
 
 NB: Different room for keynote lecture!
 
@@ -73,20 +73,20 @@ Chair: Jens Rüffer
 
 11.20			Break
 
-11.40 	James Alexander Cameron (The Courtauld Institute of Art, London): *Microarchitectural reflexivity in the design of sedilia and choir stalls*
+11.40 	James Alexander Cameron (The Courtauld Institute of Art, London): *Reflexivity between stone sedilia and ecclesiastical carpentry in medieval England*
 
 
 #### Section IV 	Authorship and groups of work – case studies
 
 Chair: Anja Seliger
 
-12.20	Willy Piron (Radboud University, Nijmegen): *The bilobate misericords of the Lower-Rhine area: a local phenomenon?*
+12.20	Willy Piron (Radboud University, Nijmegen): *The bilobate misericords of the Lower-Rhine area - A local phenomenon?*
 
 13.00	 		Lunch Break
 
 14.20	Christel Theunissen (Radboud University Nijmegen): *Jan Borchman and his fellow craftsmen. The creation of choir stalls in the Low Countries*
 
-15.00	Barbara Spanjol-Pandelo (University of Rijeka): *Matteo Moronzon – an artist or a project manager of a woodcarving workshop?*
+15.00	Barbara Spanjol-Pandelo (University of Rijeka): *Matteo Moronzon – An artist or a project manager of a woodcarving workshop?*
 
 Chair: Gerhard Weilandt
 
